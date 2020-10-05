@@ -1,0 +1,47 @@
+.box{
+    order: 2px solid brown;
+    margin-top: -89px;
+    margin-left: 5px;
+    padding: 21px;
+    margin-right: 5px;
+    border-radius: 29px;
+    background-color: gainsboro;
+    opacity: 0.85;
+    width: -webkit-fill-available;
+}
+.box img{
+    height: 421px;
+    display: block;
+    margin: auto;
+}
+
+.center{
+    font-size: 20px;
+    display: block;
+    text-align: center;
+    
+}
+.h-secondary center{
+    display: block;
+    align-items: center;
+}
+
+#services{
+    margin: 207px;
+    display: flex;
+    padding: 500px;
+    margin-top: -299px;
+}
+
+#services a{
+    color: lightseagreen;
+    display: block;
+    padding: 5px 8px;
+    border-radius: 20px;
+    text-decoration: none;
+    margin-top: 5px;
+    background: black;
+    margin-left: 74px;
+    margin-right: 78px;
+}
+

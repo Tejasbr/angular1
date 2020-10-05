@@ -1,0 +1,142 @@
+*{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: cursive;
+    border-radius: 15px;
+    
+}
+// button{
+//     display: block;
+//     margin: auto;
+//     background-color: black;
+//     color: cornsilk;
+//     padding: 14px;
+//     font-weight: bold;
+//     border: 5px solid darkseagreen;
+//     border-radius: 55px;
+//     width: 302px;
+// }
+// button:hover{
+//     background-color:teal;
+//     color: black;
+// }
+
+// .clr1{
+//     text-align: center;
+//     background-color: red;
+//     color: currentcolor;
+//     padding: 7px;
+//     margin: 20px 465px;
+// }
+// .clr2{
+//     text-align: center;
+//     background-color: yellow;
+//     color: currentcolor;
+//     padding: 7px;
+//     margin: 20px 465px;
+// }
+// .clr3{
+//     text-align: center;
+//     background-color: blue;
+//     color: currentcolor;
+//     padding: 7px;
+//     margin: 20px 465px;
+// }
+// .clr4{
+//     text-align: center;
+//     background-color: purple;
+//     color: currentcolor;
+//     padding: 7px;
+//     margin: 20px 465px;
+// }
+// .clr5{
+//     text-align: center;
+//     background-color: black;
+//     color: wheat;
+//     padding: 7px;
+//     margin: 20px 465px;
+// }
+
+// h1{
+//     text-align: center;
+//     background-color: black;
+//     color: blanchedalmond;
+//     padding: 10px;
+//     border-radius: 31px;
+// }
+
+// #navbar{
+//     display: flex;
+//     align-items: center;
+//     position: sticky;
+//     height: 94px;
+//     top: 0px;
+// }
+
+// #navbar::before{
+//     content: "";
+//     background-color: black;
+//     position: absolute;
+//     height: 100%;
+//     width: 100%;
+//     z-index: -1;
+//     opacity:0.9;
+// }
+
+// #navbar ul{
+//     display: flex;
+    
+// }
+
+// #navbar ul li{
+//     display: flex;
+//     list-style: none;
+//     font-size: 17px;
+    
+// }
+// #navbar ul li a{
+//     color: wheat;
+//     display: block;
+//     padding: 5px 15px;
+//     border-radius: 20px;
+//     text-decoration: none; /* remove underline */
+    
+// }
+// a:hover{
+//     color: black;
+//     background-color: teal;
+// }
+
+.form-inline input{
+    display: flex;
+    margin-left: 500px;
+}
+nav{
+    padding: 10px;
+    border-radius: 1px;
+    background-color: black;
+}
+a:hover{
+    color: black;
+    background-color: teal;
+}
+a{
+    color: wheat;
+}
+a.active{
+    background-color: blue;
+}
+li{
+    margin-left: 90px;
+}
+
+#logo{
+    margin: -11px -1px;
+}
+
+#logo img{
+    
+    width: 57px;
+    margin: 34px 45px;
+    border-radius: 80px;
+}
